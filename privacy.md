@@ -5,7 +5,7 @@ title: Privacy Policy
 
 # Privacy Policy
 
-**Last updated: February 16, 2026**
+**Last updated: February 28, 2026**
 
 SmartRow Companion ("the app") is developed by Greg Burlingame. This privacy policy describes how the app handles your data.
 
@@ -28,7 +28,7 @@ If you are signed into iCloud on your device, workout sessions are automatically
 
 ## Apple Health
 
-If you enable Apple Health export, the app writes workout data (duration, distance, calories, and heart rate samples) to Apple Health using HealthKit. The app does not read any data from Apple Health. Sharing of Health data is controlled entirely by you through the Health app's permissions.
+If you enable Apple Health export, the app writes workout data (duration, distance, calories, and heart rate samples) to Apple Health using HealthKit. If you enable heart rate zones with the "From Age" setting, the app reads your date of birth from Apple Health to calculate your age-based maximum heart rate. Your date of birth is used only for this calculation and is never stored, transmitted, or shared. Sharing of Health data is controlled entirely by you through the Health app's permissions.
 
 ## Strava
 
