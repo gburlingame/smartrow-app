@@ -7,6 +7,18 @@ title: SmartRow Companion
 
 An iOS companion app for the [SmartRow](https://www.smartrow.fit/) rowing sensor. Connect via Bluetooth to see real-time rowing metrics, force curves, and power data on your iPhone or iPad.
 
+<p>
+  <a href="https://apps.apple.com/us/app/smartrow-companion/id6758279717?itscg=30200&itsct=apps_box_badge&mttnsubad=6758279717">
+    <img src="assets/images/app-store-badge.svg" alt="Download on the App Store" style="height: 54px;" />
+  </a>
+</p>
+
+<div style="display: flex; gap: 16px; justify-content: center; flex-wrap: wrap; margin: 32px 0;">
+  <img src="assets/images/screenshot-workout.png" alt="Workout screen showing real-time metrics, force curve, and power graph" style="width: 230px; border-radius: 8px;" />
+  <img src="assets/images/screenshot-ready.png" alt="Ready to Row screen with connection status" style="width: 230px; border-radius: 8px;" />
+  <img src="assets/images/screenshot-details.png" alt="Session details with power and heart rate graphs" style="width: 230px; border-radius: 8px;" />
+</div>
+
 ## Features
 
 * **iCloud sync** — Rowing sessions automatically sync across devices via iCloud
