@@ -3,6 +3,10 @@ layout: default
 title: Privacy Policy
 ---
 
+<div style="text-align: right; margin-bottom: 16px;">
+  <strong>English</strong> · <a href="privacy-de">Deutsch</a> · <a href="privacy-fr">Français</a> · <a href="privacy-es">Español</a>
+</div>
+
 # Privacy Policy
 
 **Last updated: February 28, 2026**
